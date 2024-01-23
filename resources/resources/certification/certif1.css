@@ -1,0 +1,9 @@
+.A {
+    height: 350px;
+    width: 475px;
+    border: solid 2px red;
+}
+.A:hover {
+    zoom: 200%;
+    
+}
